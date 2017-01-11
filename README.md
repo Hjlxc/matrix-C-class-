@@ -1,9 +1,9 @@
 # matrix-C-class-
 C++ class for matrix operation
 Currently include:
-matrix constructor
+matrix construction
 basic matrix manipulation such as add/remove row and colnum, resize, reshage...
 basic matrix operator such as +, -, *
-basic math function such as inversion, norm...
+basic math operation such as tranpose, inversion...
 
-More function will be added
+More feature will be added
